@@ -10,7 +10,7 @@ This project consists of a web application capable of managing a user's tasks. U
 * Bernardo José Coelho Leite
 * Miguel Ferreira da Andrade
 
-## ow to run:
+## How to run:
 * Start server before root path: folder where index.php is at.
 * Enjoy.
 
